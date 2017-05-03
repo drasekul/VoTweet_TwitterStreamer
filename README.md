@@ -6,5 +6,5 @@ Modulo de Twitter para la aplicación "VoTweet" para el curso de "Taller de Base
 ## Para compilar
 - gradle jar
 
-##Para ejecutar
+## Para ejecutar
 - java -cp build/libs/twitter-streaming-1.0.jar cl.citiaps.twitter.streaming.TwitterStreaming
